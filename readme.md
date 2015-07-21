@@ -6,7 +6,7 @@ This is an absurdist game being made using the [Ren'Py Visual Novel Engine](http
 
 Ugly Mike lives in a [crapsack world](http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld) populated by deformed mutants with diminished intelligence. Something got into the water a long time ago, affecting absolutely everyone living in the area. The damaage is now completely irreversable, and enough time has gone on that no one remembers a time before this. Now, the inhabitants struggle to read and perform basic mathematics.
 
-Ugly Mike longs for the sensual touch of a maiden, and 
+Ugly Mike longs for the sensual touch of a maiden, and ventures out of his underground cave to find love.
 
 ## Features
   
